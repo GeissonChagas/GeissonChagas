@@ -15,6 +15,10 @@
  
  <br>
  
+ Sou <b>desenvolvedor front-end</b> e estudante (3° período) de <b>análise e desenvolvimento de sistemas</b>. Atualmente venho trabalhando em projetos pessoais, utilizando linguagens como: <b>HTML, CSS, JS, React e Vue Js.</b> 
+ 
+ Estou disponível para inicio imediato para uma oportunidade como <b>Desenvolvedor Jr ou Estagiar na área de Front-End.</b>
+
   ### Meus contatos:
  
 <div> 
